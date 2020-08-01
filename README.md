@@ -10,8 +10,8 @@ You can download the project, make sure to delete the content of migrations fold
   - python manage.py makemigrations app
   - python manage.py migrate (#again)
 
-then create a superuser using the command python manage.py createsuperuser _enter_your_name_
-enter email and password and you're good to go :)
+then create a superuser using the command - python manage.py createsuperuser _enter_your_name_
+  enter email and password and you're good to go :)
 
-Happy developing!
+  Happy developing!
 
